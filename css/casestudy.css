@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+}
+.jumbotron {
+    padding: 5px 15px 0;
+}
+.card{
+    padding: 5px 15px 15px;
+}
+.row {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+.jumbotron-fluid {
+    padding: 50px 0 0;
+}
+img {
+    width: 450px;
+    height: 350px;
+    float: left;
+}
+.media-body {
+    float: right;
+    width: 60%;
+}
+.prototype {
+    padding: 300px 0 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
